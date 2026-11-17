@@ -4,6 +4,10 @@
 
 一套给 AI 智能体用的影视场景搭建技能：一张母图定材质和光，一个 Blender 白模定空间和机位，再派生出同一个场景的多个角度。正打、反打、俯视都对得上同一个空间，不会出现门换了位置、灯多了几盏、桌子转了方向这些问题。
 
+[![Backlot 片场 宣发视频](assets/promo.gif)](https://cdn.jsdelivr.net/gh/manson341349-beep/backlot@main/assets/backlot-promo.mp4)
+
+上面是视频里的一段。完整视频 39 秒，带音乐：[在线播放](https://cdn.jsdelivr.net/gh/manson341349-beep/backlot@main/assets/backlot-promo.mp4) ｜ [下载高清版（1080P 60 帧）](https://github.com/manson341349-beep/backlot/releases/latest/download/backlot-promo-1080p60.mp4)
+
 ![Backlot 片场](assets/poster.jpg)
 
 ## 下载
