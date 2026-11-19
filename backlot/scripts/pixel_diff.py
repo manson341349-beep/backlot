@@ -1,4 +1,4 @@
-# Backlot 片场 v1.4 · 像素对比
+# Backlot 片场 v1.4.1 · 像素对比
 # 作者：Manson AIGC · 许可 CC BY 4.0
 #
 # 两个用处：

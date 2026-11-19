@@ -14,7 +14,7 @@
 
 **[下载技能包 backlot.zip](https://github.com/manson341349-beep/backlot/releases/latest/download/backlot.zip)**
 
-解压后得到一个 `backlot` 文件夹，里面就是完整的技能包。当前版本 v1.4。
+解压后得到一个 `backlot` 文件夹，里面就是完整的技能包。当前版本 v1.4.1。
 
 也可以直接克隆这个仓库，技能包在 `backlot/` 目录里。
 
@@ -23,7 +23,7 @@
 - **Claude Code**：把 `backlot` 文件夹放进 `~/.claude/skills/`（所有项目都能用），或项目里的 `.claude/skills/`。重开会话后生效。
 - **Codex**：把文件夹放进 Codex 的技能目录，常见位置是 `~/.codex/skills/`。
 - **Claude 网页版 / 桌面版**：把下载的 zip 直接传到设置里的技能页面。
-- **豆包、扣子、ChatGPT、Kimi 等**：用文件夹里的 `Backlot片场_v1.4_单文件版.md`，对话开头贴进去或作为文件上传。
+- **豆包、扣子、ChatGPT、Kimi 等**：用文件夹里的 `Backlot片场_v1.4.1_单文件版.md`，对话开头贴进去或作为文件上传。
 
 装好后直接对智能体说：
 

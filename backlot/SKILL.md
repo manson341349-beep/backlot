@@ -1,13 +1,13 @@
 ---
 name: backlot
-description: Backlot 片场 v1.4（Manson AIGC）——AI 影视场景搭建技能：一张母图定材质和光，Blender 白模定空间和机位，再派生出同一个场景的多个角度，各角度对得上同一个空间。用于"搭场景""场景图""场景参考图""同一个场景出多个角度""正反打对不上""换个机位场景就变了""白模""Blender 搭场景""scene reference""location angles"。能接任何格式的分镜，交出一张「角度 → 场景图」对照表给你已有的分镜、视频提示词技能用。不写剧本、不做分镜、不做角色。
+description: Backlot 片场 v1.4.1（Manson AIGC）——AI 影视场景搭建技能：一张母图定材质和光，Blender 白模定空间和机位，再派生出同一个场景的多个角度，各角度对得上同一个空间。用于"搭场景""场景图""场景参考图""同一个场景出多个角度""正反打对不上""换个机位场景就变了""白模""Blender 搭场景""scene reference""location angles"。能接任何格式的分镜，交出一张「角度 → 场景图」对照表给你已有的分镜、视频提示词技能用。不写剧本、不做分镜、不做角色。
 ---
 
-# Backlot 片场 v1.4
+# Backlot 片场 v1.4.1
 
 > 作者：Manson AIGC
 > 许可：CC BY 4.0（可自由转发、修改、商用，须保留上面这行署名）
-> 版本：v1.4（2026-11-17），更新记录见 `CHANGELOG.md`
+> 版本：v1.4.1（2026-11-20），更新记录见 `CHANGELOG.md`
 
 ## 一、它在整条流程里的位置
 
@@ -199,4 +199,4 @@ description: Backlot 片场 v1.4（Manson AIGC）——AI 影视场景搭建技�
 
 ---
 
-Backlot 片场 v1.4 · 作者 Manson AIGC · CC BY 4.0
+Backlot 片场 v1.4.1 · 作者 Manson AIGC · CC BY 4.0

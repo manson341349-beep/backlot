@@ -1,4 +1,4 @@
-# Backlot 片场 v1.4 · 换道具：把重画过的裁块贴回原图
+# Backlot 片场 v1.4.1 · 换道具：把重画过的裁块贴回原图
 # 作者：Manson AIGC · 许可 CC BY 4.0
 #
 # 用法见 references/prop-swap.md。流程：从原图裁出道具那一块 → 交给模型只重画道具 →

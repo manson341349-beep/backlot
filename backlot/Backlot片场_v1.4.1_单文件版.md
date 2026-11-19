@@ -2,11 +2,11 @@
 > 单文件版：把这整份内容贴给你的智能体（或作为文件 / 知识库上传），说"按这份技能帮我搭场景"。
 > 文中提到 `references/xxx.md` 的，就是本文后面附录里同名的那一节；提到 `scripts/xxx.py` 的，在最后的附录脚本里。
 
-# Backlot 片场 v1.4
+# Backlot 片场 v1.4.1
 
 > 作者：Manson AIGC
 > 许可：CC BY 4.0（可自由转发、修改、商用，须保留上面这行署名）
-> 版本：v1.4（2026-11-17），更新记录见 `CHANGELOG.md`
+> 版本：v1.4.1（2026-11-20），更新记录见 `CHANGELOG.md`
 
 ## 一、它在整条流程里的位置
 
@@ -1596,7 +1596,7 @@ macOS 上 blender 在 `/Applications/Blender.app/Contents/MacOS/Blender`。
 ## scripts/whitebox_template.py
 
 ```python
-# Backlot 片场 v1.4 · 白模模板脚本
+# Backlot 片场 v1.4.1 · 白模模板脚本
 # 作者：Manson AIGC · 许可 CC BY 4.0（转发、修改请保留这一行署名）
 #
 # 用法（命令行，不开界面）：
@@ -1873,7 +1873,7 @@ print("完成。渲染图在：", RENDERS)
 ## scripts/solve_camera.py
 
 ```python
-# Backlot 片场 v1.4 · 反推母图机位
+# Backlot 片场 v1.4.1 · 反推母图机位
 # 作者：Manson AIGC · 许可 CC BY 4.0
 #
 # 母图定版后，白模要照母图对齐。这一步最难的是反推"母图是站在哪、用多少焦距拍的"。
@@ -2062,7 +2062,7 @@ if __name__ == "__main__":
 ## scripts/overlay.py
 
 ```python
-# Backlot 片场 v1.4 · 叠图检查
+# Backlot 片场 v1.4.1 · 叠图检查
 # 作者：Manson AIGC · 许可 CC BY 4.0
 #
 # 把成图和白模渲染图叠在一起，看布局对不对得上：
@@ -2100,7 +2100,7 @@ print("已保存：", args[2])
 ## scripts/pixel_diff.py
 
 ```python
-# Backlot 片场 v1.4 · 像素对比
+# Backlot 片场 v1.4.1 · 像素对比
 # 作者：Manson AIGC · 许可 CC BY 4.0
 #
 # 两个用处：
@@ -2129,7 +2129,7 @@ if len(sys.argv) == 7:
 ## scripts/patch_back.py
 
 ```python
-# Backlot 片场 v1.4 · 换道具：把重画过的裁块贴回原图
+# Backlot 片场 v1.4.1 · 换道具：把重画过的裁块贴回原图
 # 作者：Manson AIGC · 许可 CC BY 4.0
 #
 # 用法见 references/prop-swap.md。流程：从原图裁出道具那一块 → 交给模型只重画道具 →

@@ -1,6 +1,6 @@
 # 自检和返修
 
-> Backlot 片场 v1.4 · Manson AIGC · CC BY 4.0
+> Backlot 片场 v1.4.1 · Manson AIGC · CC BY 4.0
 
 ## 自检：每张图出来都要做
 

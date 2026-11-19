@@ -1,4 +1,4 @@
-# Backlot 片场 v1.4 · 生成单文件版
+# Backlot 片场 v1.4.1 · 生成单文件版
 # 作者：Manson AIGC · 许可 CC BY 4.0
 #
 # 把 SKILL.md、references/ 里的说明、examples/ 里三个示例的说明和 scripts/ 里的脚本拼成一份 Markdown，
@@ -7,7 +7,7 @@
 import os, re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-VERSION = "v1.4"
+VERSION = "v1.4.1"
 SIGN = "Backlot 片场 · Manson AIGC · CC BY 4.0（https://creativecommons.org/licenses/by/4.0/deed.zh-hans）"
 OUT = os.path.join(ROOT, f"Backlot片场_{VERSION}_单文件版.md")
 

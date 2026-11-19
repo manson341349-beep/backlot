@@ -1,4 +1,4 @@
-# Backlot 片场 v1.4
+# Backlot 片场 v1.4.1
 
 > 作者：Manson AIGC
 > 许可：CC BY 4.0，免费分享。可以自由转发、修改、商用，请保留上面这行署名。
@@ -38,7 +38,7 @@ backlot/
 │   ├── 老办公室/               室内单层夜景（白模脚本就是 scripts/whitebox_template.py）
 │   ├── 雨夜老街/               室外夜雨，带 build_雨夜老街_v1.py
 │   └── 两层仓库/               楼梯和二层走廊，带 build_两层仓库_v1.py
-├── Backlot片场_v1.4_单文件版.md  给豆包、扣子、ChatGPT 等用的单文件版
+├── Backlot片场_v1.4.1_单文件版.md  给豆包、扣子、ChatGPT 等用的单文件版
 ├── CHANGELOG.md                更新记录
 └── LICENSE                     许可说明
 ```
@@ -51,7 +51,7 @@ backlot/
 
 **Claude 网页版 / 桌面版**：把 `backlot` 文件夹打成 zip（zip 里第一层就是这个文件夹，文件夹名不要改），到设置里的技能页面上传。需要先打开"代码执行 / 创建和编辑文件"。菜单位置会随版本变，以 Claude 帮助中心的说明为准。
 
-**豆包、扣子、ChatGPT、Kimi 等不能装技能文件夹的**：用 `Backlot片场_v1.4_单文件版.md`。
+**豆包、扣子、ChatGPT、Kimi 等不能装技能文件夹的**：用 `Backlot片场_v1.4.1_单文件版.md`。
 
 - 对话开头把整份内容贴进去，或者作为文件上传，说"按这份技能帮我搭场景"。
 - 做智能体 / Bot 的，可以把它放进知识库，或者放进人设与提示词。
@@ -82,4 +82,4 @@ backlot/
 更新记录见 `CHANGELOG.md`。
 
 ---
-Backlot 片场 v1.4 · Manson AIGC · CC BY 4.0
+Backlot 片场 v1.4.1 · Manson AIGC · CC BY 4.0
