@@ -41,6 +41,13 @@
 
 完整的安装和使用说明见 [backlot/README.md](backlot/README.md)。
 
+## 上手教程
+
+第一次用，可以先看这份教程：从一句话开局到出齐多个角度，四步怎么走，出了问题怎么让它改图。
+
+- **视频**（约 3 分钟）：[在线播放](https://cdn.jsdelivr.net/gh/manson341349-beep/backlot@main/tutorial/Backlot%E7%89%87%E5%9C%BA_%E4%B8%8A%E6%89%8B%E6%95%99%E7%A8%8B.mp4) ｜ [下载](https://github.com/manson341349-beep/backlot/raw/main/tutorial/Backlot%E7%89%87%E5%9C%BA_%E4%B8%8A%E6%89%8B%E6%95%99%E7%A8%8B.mp4)
+- **文件版**（PDF，8 页）：[在线看](https://cdn.jsdelivr.net/gh/manson341349-beep/backlot@main/tutorial/Backlot%E7%89%87%E5%9C%BA_%E4%B8%8A%E6%89%8B%E6%95%99%E7%A8%8B.pdf) ｜ [下载](https://github.com/manson341349-beep/backlot/raw/main/tutorial/Backlot%E7%89%87%E5%9C%BA_%E4%B8%8A%E6%89%8B%E6%95%99%E7%A8%8B.pdf)
+
 ## 它是怎么做的
 
 ```
